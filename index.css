@@ -43,21 +43,6 @@ nav a:hover {
   color: #00e5ff;
 }
 
-.hero button {
-  margin-top: 15px;
-  padding: 12px 25px;
-  border: none;
-  border-radius: 25px;
-  background: #00e5ff;
-  color: black;
-  font-weight: bold;
-  cursor: pointer;
-}
-
-.hero button:hover {
-  background: white;
-}
-
 .card {
   width: 80%;
   max-width: 800px;
